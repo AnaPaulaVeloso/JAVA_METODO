@@ -1,2 +1,2 @@
 # JAVA_METODO
-Exercícios de métodos da aula de JAVA
+Exercícios de método da aula de JAVA
